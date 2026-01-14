@@ -1,5 +1,7 @@
 # Discrete Holographic Causal Network (DHCN)
 
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)](https://doi.org/10.5281/zenodo.18247293)
+
 > **"The universe is not just like a computer; it is a computer."**
 
 ## 📂 Project Overview
@@ -89,4 +91,5 @@ If you use this framework in your research, please cite:
 
 > **Discrete Holographic Causal Network Theory (2026)**
 > *Author: Zhao Qian with Gemini
+
 > *Description: A computational approach to unified physics.*
